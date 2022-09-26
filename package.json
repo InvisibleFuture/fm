@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@css-render/vue3-ssr": "^0.15.11",
+    "@vicons/ionicons5": "^0.12.0",
+    "echarts": "^5.3.3",
+    "naive-ui": "^2.33.2",
+    "nuxt": "3.0.0-rc.8",
+    "nuxt-windicss": "^2.5.0",
+    "pug": "^3.0.2"
+  },
+  "dependencies": {
+    "@splidejs/vue-splide": "^0.6.7",
+    "axios": "^0.27.2",
+    "filesize": "^9.0.11",
+    "localstorage-cache": "^1.0.1",
+    "querystringify": "^2.2.0",
+    "satori-emoji": "^1.0.4",
+    "string-random": "^0.1.3",
+    "toastify-js": "^1.12.0"
+  }
+}
